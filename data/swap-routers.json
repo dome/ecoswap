@@ -75,7 +75,14 @@
         "dogx": {
             "name": "Dogx",
             "address": "0xb2103eDADEeFeBDdAf626c6B2B077F42B6D2F34d",
-            "ETH": "WTARO"
+            "ETH": "TARO"
+        }
+    },
+    "0xdad": {
+        "dogx": {
+            "name": "Dogx",
+            "address": "0x1246dF621f05622ab971f4e9820e3808C3d20EDa",
+            "ETH": "JFIN"
         }
     }
 }

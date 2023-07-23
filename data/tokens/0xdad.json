@@ -1,0 +1,16 @@
+[{
+    "name": "JFIN",
+    "symbol": "JFIN",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "decimals": 18
+},{
+    "name": "Wrapped JFIN",
+    "symbol": "WJFIN",
+    "address": "0x99999999990FC47611b74827486218f3398A4abD",
+    "decimals": 18
+}, {
+    "name": "Bridge BUSD",
+    "symbol": "JUSD",
+    "address": "0x446B8153B5D13d8639F82F2CF2B4F3D48D52bb10",
+    "decimals": 18
+}]

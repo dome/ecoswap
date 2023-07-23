@@ -12,7 +12,7 @@ import { useContext } from "react"
 // Site metadata
 
 const Metadata = ({ page }) => {
-    const title = `EcoSwap${page ? ` - ${page}` : ""}`
+    const title = `EzySwap${page ? ` - ${page}` : ""}`
     return (
         <Head>
             <meta charSet="UTF-8"></meta>
@@ -23,7 +23,7 @@ const Metadata = ({ page }) => {
             <meta property="og:image" content="/ecoswap.png"></meta>
             <meta property="og:description" content="A privacy-centered DEX aggregator, bringing you a fast, lightweight swap experience with the best rates on Ethereum, Polygon, Fantom, Avalanche, and BNB Chain"></meta>
             <title>{title}</title>
-            <link rel="icon" href="/ecoswap-square.png"></link>
+            <link rel="icon" href="/ezy-swap.png"></link>
         </Head>
     )
 }

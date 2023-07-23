@@ -96,7 +96,7 @@
         }
     },
     "0x88c3": {
-        "name": "j2o",
+        "name": "J2O",
         "fullName": "J2O Taro Chain",
         "token": "TARO",
         "WETH": "0x885d96761AEdBf6dd8Be844C8a8C8A37c6045847",
@@ -104,6 +104,21 @@
         "explorer": "https://exp.j2o.io",
         "api": {
             "endpoint": "https://fakegas.thaichain.org",
+            "keys": [
+                "PBB22ASDNYEHC419FNS2XYGTGM5B5B82PP"
+                
+            ]
+        }
+    },
+    "0xdad": {
+        "name": "Jfin Chain",
+        "fullName": "JFIN Chain",
+        "token": "JFIN",
+        "WETH": "0x99999999990FC47611b74827486218f3398A4abD",
+        "rpc": "https://rpc.jfinchain.com",
+        "explorer": "https://exp.jfinchain.com",
+        "api": {
+            "endpoint": "https://fakegas.thaichain.org/jfin",
             "keys": [
                 "PBB22ASDNYEHC419FNS2XYGTGM5B5B82PP"
                 

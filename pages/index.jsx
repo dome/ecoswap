@@ -36,7 +36,7 @@ const Swap = () => {
                         <div className="divider"></div>
                     </>
                 )}
-                <div className="disclaimer">Trading is risky! EcoSwap is not responsible for any trading losses or financial losses while using the app. DYOR before buying any token or making any trade to avoid getting rekt. EcoSwap is beta software and may contain bugs. Bug reports in the EcoSwap Discord server are appreciated!</div>
+                <div className="disclaimer">Trading is risky! EzySwap is not responsible for any trading losses or financial losses while using the app. DYOR before buying any token or making any trade to avoid getting rekt. EzySwap is beta software and may contain bugs. Bug reports in the EzySwap Discord server are appreciated!</div>
             </div>
             <style jsx>{`
                 .content {
