@@ -94,5 +94,20 @@
                 "B9UIXZ32ATW75FCS19T1W79WGB8YRMM7UJ"
             ]
         }
+    },
+    "0x88c3": {
+        "name": "j2o",
+        "fullName": "J2O Taro Chain",
+        "token": "TARO",
+        "WETH": "0x885d96761AEdBf6dd8Be844C8a8C8A37c6045847",
+        "rpc": "https://rpc.j2o.io",
+        "explorer": "https://exp.j2o.io",
+        "api": {
+            "endpoint": "https://fakegas.thaichain.org",
+            "keys": [
+                "PBB22ASDNYEHC419FNS2XYGTGM5B5B82PP"
+                
+            ]
+        }
     }
 }

@@ -70,5 +70,12 @@
             "address": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
             "ETH": "ETH"
         }
+    },
+    "0x88c3": {
+        "dogx": {
+            "name": "Dogx",
+            "address": "0xb2103eDADEeFeBDdAf626c6B2B077F42B6D2F34d",
+            "ETH": "WTARO"
+        }
     }
 }

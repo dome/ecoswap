@@ -1,0 +1,21 @@
+[{
+    "name": "TARO",
+    "symbol": "TARO",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "decimals": 18
+},{
+    "name": "Wrapped Taro",
+    "symbol": "WTARO",
+    "address": "0x885d96761AEdBf6dd8Be844C8a8C8A37c6045847",
+    "decimals": 18
+}, {
+    "name": "PKA2",
+    "symbol": "PKA2",
+    "address": "0xf30aE4ea8EC6266060Ce8b97fd90F8d6A9EFC944",
+    "decimals": 18
+}, {
+    "name": "PKA",
+    "symbol": "PKA",
+    "address": "0xA21B21fe4263Ef932D0359E1e733a54f1838f793",
+    "decimals": 18
+}]
