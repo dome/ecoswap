@@ -124,5 +124,35 @@
                 
             ]
         }
+    },
+    "0x60": {
+        "name": "Bitkub Chain",
+        "fullName": "Bitkub Chain",
+        "token": "KUB",
+        "WETH": "0x67eBD850304c70d983B2d1b93ea79c7CD6c3F6b5",
+        "rpc": "https://rpc.bitkubchain.io",
+        "explorer": "https://www.bkcscan.com/",
+        "api": {
+            "endpoint": "https://fakegas.thaichain.org/bkc",
+            "keys": [
+                "PBB22ASDNYEHC419FNS2XYGTGM5B5B82PP"
+                
+            ]
+        }
+    },
+    "0x11": {
+        "name": "Meta Chain",
+        "fullName": "Meta Chain",
+        "token": "META",
+        "WETH": "0xa47cB015472A8FD58169C10C731905cfD9e9De10",
+        "rpc": "https://rpc.metachain.asia",
+        "explorer": "https://exp.metachain.asia",
+        "api": {
+            "endpoint": "https://fakegas.thaichain.org/meta",
+            "keys": [
+                "PBB22ASDNYEHC419FNS2XYGTGM5B5B82PP"
+                
+            ]
+        }
     }
 }

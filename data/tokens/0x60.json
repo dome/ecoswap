@@ -1,0 +1,31 @@
+[{
+    "name": "KUB",
+    "symbol": "KUB",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "decimals": 18
+},{
+    "name": "Wrapped KUB",
+    "symbol": "KKUB",
+    "address": "0x67eBD850304c70d983B2d1b93ea79c7CD6c3F6b5",
+    "decimals": 18
+},{
+    "name": "Bitkub-Peg USDC",
+    "symbol": "KUSDC",
+    "address": "0x77071ad51ca93fc90e77BCdECE5aa6F1B40fcb21",
+    "decimals": 18
+},{
+    "name": "META TOKEN",
+    "symbol": "META",
+    "address": "0xb2D5a5AEC0C7f2Cac33DcdF6D7B47Ab6Dd403246",
+    "decimals": 18
+},{
+    "name": "MVP TOKEN",
+    "symbol": "MVP",
+    "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
+    "decimals": 18
+},{
+    "name": "Bitkub-Peg USDT",
+    "symbol": "KUSDT",
+    "address": "0x7d984C24d2499D840eB3b7016077164e15E5faA6",
+    "decimals": 18
+}]

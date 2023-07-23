@@ -1,0 +1,21 @@
+[{
+    "name": "META",
+    "symbol": "META",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "decimals": 18
+},{
+    "name": "Wrapped META",
+    "symbol": "MMETA",
+    "address": "0xa47cB015472A8FD58169C10C731905cfD9e9De10",
+    "decimals": 18
+},{
+    "name": "Wrapped META",
+    "symbol": "WETA",
+    "address": "0x5462f746B6aD010c4E2B67dfD871767d49d151fA",
+    "decimals": 18
+},{
+    "name": "MVP on META Chain",
+    "symbol": "MVP",
+    "address": "0x9737e3Be617d482cFCF013358e1DEB188aB63E0B",
+    "decimals": 18
+}]
